@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b074b895-6a44-496d-88bb-5bb70b592856" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SNSBIGData_" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a1UbgjjRHDrwxQFFj0lvlcWzGY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/middleAssignment.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yh\PycharmProjects\SNSBIGData_\data" />
+      <recent name="C:\Users\yh\PycharmProjects\SNSBIGData_" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="middleAssignment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SNSBIGData_" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/middleAssignment.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.middleAssignment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b074b895-6a44-496d-88bb-5bb70b592856" name="Default Changelist" comment="" />
+      <created>1585902666939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585902666939</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="106" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589623343940">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="106" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1589623343940" />
+    <state x="372" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588950053560">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="372" y="143" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1588950053560" />
+    <state x="431" y="95" key="FileChooserDialogImpl" timestamp="1589620288635">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="431" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1589620288635" />
+    <state width="1237" height="38" key="GridCell.Tab.0.bottom" timestamp="1589883312364">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="38" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589883312364" />
+    <state width="1237" height="38" key="GridCell.Tab.0.center" timestamp="1589883312364">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="38" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1589883312364" />
+    <state width="1237" height="38" key="GridCell.Tab.0.left" timestamp="1589883312363">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="38" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1589883312363" />
+    <state width="1237" height="38" key="GridCell.Tab.0.right" timestamp="1589883312364">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="38" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1589883312364" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1588949949289">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1588949949289" />
+    <state x="167" y="46" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1589203186534">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="167" y="46" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.1280.680@0.0.1280.680" timestamp="1589203186534" />
+    <state x="333" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1589649609060">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="333" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1589649609060" />
+    <state x="282" y="67" width="700" height="530" key="recent.locations.popup" timestamp="1589365982648">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="282" y="67" width="700" height="530" key="recent.locations.popup/0.0.1280.680@0.0.1280.680" timestamp="1589365982648" />
+    <state x="859" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1587105033750">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="859" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1587105033750" />
+  </component>
+</project>
